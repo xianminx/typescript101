@@ -1,0 +1,1 @@
+This is the companion project for blog post **TypeScript**
